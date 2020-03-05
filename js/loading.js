@@ -14,7 +14,7 @@ var timer = setInterval(function(){
             MONSTER!\
         </h2>\
         <h3>Ahhhh We'll eat you.</h3>");
-        },3000);
+        },1000);
         clearInterval(timer);
     }
 },30)
